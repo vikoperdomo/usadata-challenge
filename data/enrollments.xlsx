@@ -1,0 +1,11 @@
+﻿locationId,creative.id,creative.options.offers,package.id,startYear,startMonth,cycleDuration,cycleBudget,status
+CHV-EC,confidencecounts001,invisalign,package-003,2022,May,3,5000,ACTIVE
+CHV-ME,confidencecounts001,invisalign,package-003,2022,May,3,2500,ACTIVE
+CHV-RL,confidencecounts001,invisalign,package-003,2022,May,3,2500,ACTIVE
+SCV-NR,confidencecounts001,invisalign,package-003,2022,May,3,5000,ACTIVE
+SCV-AM,confidencecounts001,invisalign,package-003,2022,May,3,2500,ACTIVE
+MAR,confidencecounts001,invisalign,package-003,2022,May,3,5000,ACTIVE
+WAU,confidencecounts001,invisalign,package-003,2022,May,3,5000,ACTIVE
+DTM,confidencecounts001,invisalign,package-003,2022,May,3,5000,ACTIVE
+SMR-DE,confidencecounts001,invisalign,package-003,2022,May,3,2500,ACTIVE
+SMR-CE,confidencecounts001,invisalign,package-003,2022,May,3,2500,ACTIVE

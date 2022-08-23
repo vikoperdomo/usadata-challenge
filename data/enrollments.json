@@ -1,0 +1,181 @@
+[{
+        "rowIndex": 1,
+        "locationId": "CHV-EC",
+        "creative": {
+            "id": "confidencecounts001",
+            "options": {
+                "offers": "invisalign"
+            }
+        },
+        "package": {
+            "id": "package-003"
+        },
+        "startYear": 2022,
+        "startMonth": "May",
+        "cycleDuration": 3,
+        "cycleBudget": 5000,
+        "status": "ACTIVE"
+    },
+    {
+        "rowIndex": 2,
+        "locationId": "CHV-ME",
+        "creative": {
+            "id": "confidencecounts001",
+            "options": {
+                "offers": "invisalign"
+            }
+        },
+        "package": {
+            "id": "package-003"
+        },
+        "startYear": 2022,
+        "startMonth": "May",
+        "cycleDuration": 3,
+        "cycleBudget": 2500,
+        "status": "ACTIVE"
+    },
+    {
+        "rowIndex": 3,
+        "locationId": "CHV-RL",
+        "creative": {
+            "id": "confidencecounts001",
+            "options": {
+                "offers": "invisalign"
+            }
+        },
+        "package": {
+            "id": "package-003"
+        },
+        "startYear": 2022,
+        "startMonth": "May",
+        "cycleDuration": 3,
+        "cycleBudget": 2500,
+        "status": "ACTIVE"
+    },
+    {
+        "rowIndex": 4,
+        "locationId": "SCV-NR",
+        "creative": {
+            "id": "confidencecounts001",
+            "options": {
+                "offers": "invisalign"
+            }
+        },
+        "package": {
+            "id": "package-003"
+        },
+        "startYear": 2022,
+        "startMonth": "May",
+        "cycleDuration": 3,
+        "cycleBudget": 5000,
+        "status": "ACTIVE"
+    },
+    {
+        "rowIndex": 5,
+        "locationId": "SCV-AM",
+        "creative": {
+            "id": "confidencecounts001",
+            "options": {
+                "offers": "invisalign"
+            }
+        },
+        "package": {
+            "id": "package-003"
+        },
+        "startYear": 2022,
+        "startMonth": "May",
+        "cycleDuration": 3,
+        "cycleBudget": 2500,
+        "status": "ACTIVE"
+    },
+    {
+        "rowIndex": 6,
+        "locationId": "MAR",
+        "creative": {
+            "id": "confidencecounts001",
+            "options": {
+                "offers": "invisalign"
+            }
+        },
+        "package": {
+            "id": "package-003"
+        },
+        "startYear": 2022,
+        "startMonth": "May",
+        "cycleDuration": 3,
+        "cycleBudget": 5000,
+        "status": "ACTIVE"
+    },
+    {
+        "rowIndex": 7,
+        "locationId": "WAU",
+        "creative": {
+            "id": "confidencecounts001",
+            "options": {
+                "offers": "invisalign"
+            }
+        },
+        "package": {
+            "id": "package-003"
+        },
+        "startYear": 2022,
+        "startMonth": "May",
+        "cycleDuration": 3,
+        "cycleBudget": 5000,
+        "status": "ACTIVE"
+    },
+    {
+        "rowIndex": 8,
+        "locationId": "DTM",
+        "creative": {
+            "id": "confidencecounts001",
+            "options": {
+                "offers": "invisalign"
+            }
+        },
+        "package": {
+            "id": "package-003"
+        },
+        "startYear": 2022,
+        "startMonth": "May",
+        "cycleDuration": 3,
+        "cycleBudget": 5000,
+        "status": "ACTIVE"
+    },
+    {
+        "rowIndex": 9,
+        "locationId": "SMR-DE",
+        "creative": {
+            "id": "confidencecounts001",
+            "options": {
+                "offers": "invisalign"
+            }
+        },
+        "package": {
+            "id": "package-003"
+        },
+        "startYear": 2022,
+        "startMonth": "May",
+        "cycleDuration": 3,
+        "cycleBudget": 2500,
+        "status": "ACTIVE"
+    },
+    {
+        "rowIndex": 10,
+        "locationId": "SMR-CE",
+        "creative": {
+            "id": "confidencecounts001",
+            "options": {
+                "offers": "invisalign"
+            }
+        },
+        "package": {
+            "id": "package-003"
+        },
+        "startYear": 2022,
+        "startMonth": "May",
+        "cycleDuration": 3,
+        "cycleBudget": 2500,
+        "status": "ACTIVE"
+    }
+]
