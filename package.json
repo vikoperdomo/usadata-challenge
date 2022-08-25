@@ -8,7 +8,8 @@
         "is-utf8": "^0.2.1"
     },
     "scripts": {
-        "start": "node index.js"
+        "start": "node index.js",
+        "start:challenge2": "node challenge2.js"
     },
     "author": "Viktor Perdomo",
     "license": "MIT"
